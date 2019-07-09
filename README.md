@@ -8,7 +8,7 @@ Tableau_examples
 https://public.tableau.com/en-us/s/gallery/cryptomarket
 
 方法：
-找几个主要的数据分析公众号
+找几个主要的数据分析公众号 http://www.datasoldier.net/archives/357
 爬取发表的文章题目做分析
 看看它们都发表过哪些关于数据分析的言论
 有例子的，直接复现一下
